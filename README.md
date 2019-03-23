@@ -1,2 +1,2 @@
 # Website
-Main Website visitable by people.
+Main Website visitable by people. Built in ReactJS
